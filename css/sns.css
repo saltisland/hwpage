@@ -1,0 +1,32 @@
+
+
+
+.insta{
+    width:100px;
+    height: auto;
+    margin:auto;
+}
+
+.youtube{
+    width:100px;
+    height: auto;
+    margin: auto;
+}
+
+.snslist{
+    display:grid;
+    grid-template-columns: 100px 200px;
+    align-items: center;
+    text-align:start;
+    padding-left:700px;
+    margin-top:10px;
+}
+
+
+.intoinsta>a:hover{
+    color:#288BA0;
+}
+
+.intoyoutube>a:hover{
+    color:#B5008C;
+}

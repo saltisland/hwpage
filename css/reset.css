@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+#menu1 {
+    background-color: white;
+}
+
+#menu1 ul {
+    width: 500px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#menu1 ul li {
+    float: left;
+    width: 25%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: white;
+}
+
+#menu1 ul li a {
+    display: block;
+}
+
+#menu1 ul li a:hover {
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+#title{
+    text-align:center;
+    width:100%;
+}
+
+.greet{
+    margin: auto;
+    width: 600px;
+    padding: 20px; 
+}
+
+.mainpic{
+    margin: auto;
+}
+
+.maingreet{
+    margin:auto;
+    padding:10px;
+}
+

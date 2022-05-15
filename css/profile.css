@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+#legendchae{
+    text-align:center;
+    margin:20px;}
+
+#legendchae>img{
+    
+}
+
+
+.introduce{
+    margin: auto;
+    width:570px;
+}
+
+.introduce>p>a:hover{
+    color:violet;
+}
